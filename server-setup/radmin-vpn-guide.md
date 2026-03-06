@@ -18,7 +18,7 @@ description: How to play with radmin vpn.
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. In the Project bo4`Launcher` connect the host pc to `127.0.0.1` [connecting-to-a-server.md](../launcher-guide/connecting-to-a-server.md "mention")
+4. In the Project bo4`Launcher` connect the host pc to `127.0.0.1` [connecting-to-a-server.md](../playing-online/connecting-to-a-server.md "mention")
 
 #### Remote PC
 

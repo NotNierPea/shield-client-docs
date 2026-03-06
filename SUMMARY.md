@@ -1,37 +1,33 @@
 # Table of contents
 
-* [Project Black Ops 4](README.md)
+* [Project Black Ops 4 / Shield Client](README.md)
 
 ## USEFUL INFOMATION
 
-* [Road Map & Features](useful-infomation/road-map-and-features.md)
-* [Client Features](useful-infomation/client-features.md)
-* [Useful Links](useful-infomation/useful-links.md)
 * [FAQ](useful-infomation/faq.md)
-* [Troubleshooting](useful-infomation/troubleshooting.md)
+* [Useful Links](useful-infomation/useful-links.md)
 
 ## LAUNCHER GUIDE
 
-* [How To Play](launcher-guide/how-to-play.md)
 * [Things to Know](launcher-guide/things-to-know.md)
 * [How To Install](launcher-guide/how-to-install.md)
-* [How to add game folder exception in Windows Defender](launcher-guide/how-to-add-game-folder-exception-in-windows-defender.md)
+* [Windows Defender Exceptions](launcher-guide/how-to-add-game-folder-exception-in-windows-defender.md)
+* [How To Play](launcher-guide/how-to-play.md)
 * [Playing Offline](launcher-guide/playing-offline.md)
 * [Playing Online](launcher-guide/playing-online.md)
-* [Connecting To A Server](launcher-guide/connecting-to-a-server.md)
 
 ## PLAYING ONLINE
 
+* [Connecting To A Server](playing-online/connecting-to-a-server.md)
 * [How To Connect With Friends](playing-online/how-to-connect-with-friends.md)
-* [Commands To Start Games](playing-online/commands-to-start-games.md)
 
-## SERVER SETUP (OUTDATED)
+## SERVER SETUP
 
-* [How To Set Up The Server](server-setup-outdated/server-setup.md)
-* [How To Run The Server](server-setup-outdated/running-the-server.md)
-* [Server Webpanel Instructions](server-setup-outdated/server-webpanel.md)
-* [Private Match / Server Faq](server-setup-outdated/private-match-server-faq.md)
-* [Radmin VPN Guide](server-setup-outdated/radmin-vpn-guide.md)
+* [How To Set Up The Server](server-setup/server-setup.md)
+* [How To Run The Server](server-setup/running-the-server.md)
+* [Server Webpanel Instructions](server-setup/server-webpanel.md)
+* [Private Match / Server Faq](server-setup/private-match-server-faq.md)
+* [Radmin VPN Guide](server-setup/radmin-vpn-guide.md)
 
 ## MODDING
 

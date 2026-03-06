@@ -6,23 +6,23 @@ description: Download links found here.
 
 ## Client Source Code
 
-Can be found [here.](https://github.com/project-bo4/shield-development/)
+The client is not open source, but an old version that is public can be found [here.](https://github.com/project-bo4/shield-development/)
 
 ***
 
 ## Launcher Download
 
-Download [here](https://github.com/bodnjenie14/Project_-bo4_Launcher/releases/).
+Download [here](https://github.com/NotNierPea/shield-launcher/releases/tag/Release).
 
 Launcher Source Code
 
-Can be found [here.](https://github.com/bodnjenie14/Project_-bo4_Launcher)
+Can be found [here.](https://github.com/NotNierPea/shield-launcher)
 
 ***
 
-## Demonware Server Emulator (OUTDATED)
+## Demonware Server Emulator
 
-Download DwServer [here](https://github.com/bodnjenie14/DWUPDATES/releases) .
+Download the new one [here](https://github.com/bodnjenie14/DWUPDATES/releases) .
 
 ***
 

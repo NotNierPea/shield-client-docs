@@ -2,7 +2,7 @@
 description: How to add game folder exception in Windows Defender
 ---
 
-# How to add game folder exception in Windows Defender
+# Windows Defender Exceptions
 
 ## Add exception to game folder in Windows Defender
 
@@ -14,7 +14,3 @@ description: How to add game folder exception in Windows Defender
 6. Navigate to game folder in Windows Explorer and `select it`.
 7. Click on `Select folder`.
 8. Done.
-
-![WindowsDefender\_Exclude Folder](https://github.com/WrekLess/shield-docs/assets/9027113/9d2e4208-8677-4aa2-be6e-e2f864bcdbf1)
-
-Enjoy `project-bo4`

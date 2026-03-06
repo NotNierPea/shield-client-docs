@@ -4,11 +4,7 @@ description: How to play online
 
 # Playing Online
 
-Enter the IP of the server `Change IP Address`. [connecting-to-a-server.md](connecting-to-a-server.md "mention")
-
-Using the launcher select `Online`
-
-We host public servers in our [Discord](https://discord.gg/AXECAzJJGU).
+Enter the IP of the server `Change IP Address`. [connecting-to-a-server.md](../playing-online/connecting-to-a-server.md "mention"), Using the launcher select `Online`, We also host public servers in our [Discord](https://discord.gg/AXECAzJJGU).
 
 <figure><img src="../.gitbook/assets/Capture1.PNG" alt=""><figcaption></figcaption></figure>
 

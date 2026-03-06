@@ -6,20 +6,9 @@ description: How to install launcher
 
 Download the launcher from [useful-links.md](../useful-infomation/useful-links.md "mention")
 
-![Launcher\_Download](https://github.com/WrekLess/shield-docs/assets/9027113/95cb68e0-79ff-4efc-a3de-e6a96cd7af8a)
+Open the `zip` file. then extract the contents of the zip file into your `Black Ops 4` folder.
 
-Open the `zip` file.
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-03 201636.png" alt=""><figcaption></figcaption></figure>
 
-Extract the contents of the zip file into your `Black Ops 4` folder.
+Then open `Launch Project BO4.exe`.
 
-<figure><img src="../.gitbook/assets/Captura_de_pantalla_2024-01-18_163006.png" alt=""><figcaption></figcaption></figure>
-
-![Launcher\_Installation](https://github.com/WrekLess/shield-docs/assets/9027113/f462fece-1716-4733-b1ab-ae8b7be44b61)
-
-Alternatively, you can extract the contents anywhere on your PC and copy the files into your `Black Ops 4` folder.
-
-![Launcher\_Alt\_Installation](https://github.com/WrekLess/shield-docs/assets/9027113/2a075d31-1b4d-4d79-86ee-0fc790e3d884)
-
-To run the launcher open `Launch Project BO4.exe`
-
-![Launcher\_Run](../.gitbook/assets/Capature.PNG)

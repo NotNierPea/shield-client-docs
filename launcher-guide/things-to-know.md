@@ -1,21 +1,23 @@
 ---
-description: Things to Know before jumping in to Project-BO4!
+description: Things to Know before jumping in to Shield Client!
 ---
 
 # Things to Know
 
-### Call of Duty Black Ops 4:
-
 ### You must own the game purchased through Battlenet
 
-In order to use the Project-BO4 client, you must own and download the game through Battlenet. No exceptions.
+In order to use the Shield client, you must own and download the game through Battlenet. No exceptions.
 
-### Project-BO4 Pre-Checks
+### Shield Pre-Checks
 
-`Windows updates:` Ensure your Windows OS is up-to-date.\
-`GPU drivers up-to-date?` Ensure your graphics drivers are up-to-date.\
-`Audio drivers up-to-date?` Ensure your audio drivers are updated.\
-`Does the retail version of the game run on your system?` Ensure the game properly loads and runs on your system PRIOR to adding the Project-BO4 client.
+* `Windows updates`
+* Ensure your Windows OS is up-to-date.
+* `GPU drivers up-to-date?`
+* Ensure your graphics drivers are up-to-date.
+* `Audio drivers up-to-date?`
+* Ensure your audio drivers are updated.
+* `Does the retail version of the game run on your system?`&#x20;
+* Ensure the game properly loads and runs on your system PRIOR to adding the Project-BO4 client.
 
 ### Minimum requirements to run the game
 
