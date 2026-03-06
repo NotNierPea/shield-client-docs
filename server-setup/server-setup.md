@@ -4,31 +4,13 @@ description: How to setup up the server.
 
 # How To Set Up The Server
 
-## Automatic Setup
-
-Install DwServer installer from [useful-links.md](../useful-infomation/useful-links.md "mention").
-
-Run `Bo4_Deamonware_Server_Installer.msi`
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 143135.png" alt=""><figcaption></figcaption></figure>
-
-Make sure to tick both cases.
-
-***
-
-## Manual Setup
-
-Download server from [here.](https://github.com/bodnjenie14/DWUPDATES/releases/download/4.1.1.5/DW.SERVER.rar)
+**Download server from** [**here.**](https://github.com/NotNierPea/shield-client-docs/releases/download/release/DWServer-New.zip)
 
 ### Open ports
 
 #### Automatic
 
-Download `FIREWALL RULES.BAT` [here.](https://github.com/bodnjenie14/DWUPDATES/releases/download/4.1.1.5/FIREWALL.RULES.BAT)
-
-Run the `FIREWALL RULES.BAT` file as administrator.
-
-Optionally, to make the webserver accessible over external network, run the `FIREWALL RULES (WEBSERVER).BAT` file as administrator.
+Download `FIREWALL.RULES-AUTO.bat` [here.](https://github.com/NotNierPea/shield-client-docs/releases/download/release/FIREWALL.RULES-AUTO.BAT) then run the file as administrator. optionally, to make the webserver accessible over external network, run the `FIREWALL.RULES.WEBSERVER.BAT` file as administrator.
 
 #### Manual
 

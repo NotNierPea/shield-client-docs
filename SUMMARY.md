@@ -26,17 +26,12 @@
 * [How To Set Up The Server](server-setup/server-setup.md)
 * [How To Run The Server](server-setup/running-the-server.md)
 * [Server Webpanel Instructions](server-setup/server-webpanel.md)
-* [Private Match / Server Faq](server-setup/private-match-server-faq.md)
 * [Radmin VPN Guide](server-setup/radmin-vpn-guide.md)
 
 ## MODDING
 
-* [Getting Started With Modding](modding/getting-started-with-modding.md)
-* [Lua](modding/lua.md)
-* [Extra Modding Notes](modding/extra-modding-notes.md)
 * [How To Install Mods](modding/how-to-install-mods.md)
-
-***
-
-* [Plugins](plugins.md)
-* [Released Mods](pre-configured-mods.md)
+* [Plugins](modding/plugins.md)
+* [Getting Started With Modding](modding/getting-started-with-modding/README.md)
+  * [Extra Modding Notes](modding/getting-started-with-modding/extra-modding-notes.md)
+  * [Lua](modding/getting-started-with-modding/lua.md)

@@ -20,7 +20,7 @@ For public hosting use [http://localhost:8080/](http://localhost:8080/) this dis
 
 ## Change The Server Access
 
-Edit the project-bo4.json if you want to change the access IP to limit people connecting to the webpanel.
+Edit the `server-config.json` if you want to change the access IP to limit people connecting to the webpanel.
 
 ```
 "httpserver": {
@@ -28,6 +28,6 @@ Edit the project-bo4.json if you want to change the access IP to limit people co
 }
 ```
 
-<figure><img src="../.gitbook/assets/Webpannel IP.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-06 103554.png" alt=""><figcaption></figcaption></figure>
 
 Replace `"0.0.0.0"` or whatever value you have with the IP address you only want to be able to access the webpanel. (Leaving it `"0.0.0.0"` - will allow anyone to access the webpanel with your ip:8080 ) To know your IP address, you can use this website: [https://whatismyipaddress.com/](https://whatismyipaddress.com/), only you will be able to connect to the webpanel.

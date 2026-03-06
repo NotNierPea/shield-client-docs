@@ -16,4 +16,4 @@ EXPORT void PBO4_PostUnpack();
 EXPORT void PBO4_PreDestroy();
 ```
 
-Here is an example [prozject](https://github.com/ate47/atian-cod-tools/blob/367a27ceb58d09354cca39832daf28422a916ec7/src/shield-plugin/main.cpp)
+Here is an example [Project](https://github.com/ate47/atian-cod-tools/blob/367a27ceb58d09354cca39832daf28422a916ec7/src/shield-plugin/main.cpp).

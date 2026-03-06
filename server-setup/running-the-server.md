@@ -6,11 +6,9 @@ description: How to run the server.
 
 ## Running The Server
 
-For automatic server installation run `Black Ops 4 Demonware Server` shortcut on your desktop.
+After extracting the `DWServer-New.zip` , run `DWServer.exe`.
 
-For manual server installation run `server.exe` (located where you installed the DW server).
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 151356.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-06 102936.png" alt=""><figcaption></figcaption></figure>
 
 The webpanel can be opened at the address [http://localhost:8080/](http://localhost:8080/). (default address for the host)
 

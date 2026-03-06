@@ -18,20 +18,20 @@ description: How to play with radmin vpn.
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. In the Project bo4`Launcher` connect the host pc to `127.0.0.1` [connecting-to-a-server.md](../playing-online/connecting-to-a-server.md "mention")
+4. In the Project bo4 `Launcher` connect the host PC to `127.0.0.1` [connecting-to-a-server.md](../playing-online/connecting-to-a-server.md "mention")
 
 #### Remote PC
 
-(This will be your friends pc)
+(This will be your friends PC)
 
-1. Download radmin VPN [here.](https://www.radmin-vpn.com/)
+1. Download Radmin VPN [here.](https://www.radmin-vpn.com/)
 2. Install Radmin VPN on the remote computer.
 3. Launch the software and press "Join network" button. Enter Network name and Password in the dialog box
 4. Enter network name and password you created.
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-5. In the Project bo4`Launcher` connect the remote pc to the host ip address displayed in Radmin.
+5. In the Project bo4 `Launcher` connect the remote pc to the host ip address displayed in Radmin.
 
 ***
 
