@@ -4,20 +4,6 @@ description: Server webpanel instructions.
 
 # Server Webpanel Instructions
 
-## Managing The Server
-
-Admin Page: [http://localhost:1234/](http://localhost:8080/)
-
-1: NAT type and kick players
-
-2:Disband lobbys
-
-For public hosting use [http://localhost:8080/](http://localhost:8080/) this displays players and lobbys no kick button.
-
-<figure><img src="../.gitbook/assets/Webpannel small most important explanation.png" alt=""><figcaption></figcaption></figure>
-
-***
-
 ## Change The Server Access
 
 Edit the `server-config.json` if you want to change the access IP to limit people connecting to the webpanel.
