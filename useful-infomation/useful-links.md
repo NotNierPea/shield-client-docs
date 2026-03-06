@@ -34,4 +34,4 @@ Discord invite link[ here.](https://discord.gg/AXECAzJJGU)
 
 ## Source For Docs
 
-Can be found here[ here.](https://github.com/bodnjenie14/shield-docs)
+Can be found here[ here.](https://github.com/NotNierPea/shield-client-docs)
