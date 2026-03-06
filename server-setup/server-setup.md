@@ -10,7 +10,7 @@ description: How to setup up the server.
 
 #### Automatic
 
-Download `FIREWALL.RULES-AUTO.bat` [here.](https://github.com/NotNierPea/shield-client-docs/releases/download/release/FIREWALL.RULES-AUTO.BAT) then run the file as administrator. optionally, to make the webserver accessible over external network, run the `FIREWALL.RULES.WEBSERVER.BAT` file as administrator.
+Download `FIREWALL.RULES-AUTO.bat` [here.](https://github.com/NotNierPea/shield-client-docs/releases/download/release/FIREWALL.RULES-AUTO.BAT) then run the file as administrator. optionally, to make the webserver accessible over external network, run the `FIREWALL.RULES.WEBSERVER.BAT` [here](https://github.com/NotNierPea/shield-client-docs/releases/download/release/FIREWALL.RULES.WEBSERVER.BAT) file as administrator.
 
 #### Manual
 
