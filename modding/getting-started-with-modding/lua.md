@@ -4,7 +4,7 @@ description: Lua / Lui modding instructions
 
 # Lua
 
-## Lua Config ( Found In ProjectBo4.json)
+## Lua Config (Found In ProjectBo4.json)
 
 The added configs are:
 
@@ -61,7 +61,7 @@ x64:4fb12287640e989a (Multiplayer/Warzone)
 
 ## To Compile Lua
 
-[https://github.com/ate47/hksc/tree/test\_t8](https://github.com/ate47/hksc/tree/test_t8). The Lua in BO4 is adding a new custom datatype `xhash` compared to bo3.
+using [ate's-hksc](https://github.com/ate47/hksc/tree/test_t8). the lua in BO4 is adding a new custom datatype `xhash` compared to bo3. you can also use [atian-cod-tools](https://github.com/ate47/atian-cod-tools) to compile too.
 
 ***
 

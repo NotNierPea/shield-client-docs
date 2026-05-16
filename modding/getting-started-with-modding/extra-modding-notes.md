@@ -31,7 +31,7 @@ To sync the GSC and the LUA scripts, `eventstring` is used, they need to be cach
 
 A custom element can be defined with a type, name and the hooks.
 
-The list of the available types is available [here](https://github.com/Dylbin/t8-atian-menu/blob/master/docs/notes/bgcache.csv).
+The list of the available types is available [here](https://github.com/ate47/t8-atian-menu/blob/master/docs/notes/bgcache.csv).
 
 `eventstrings`will be required for custom models, weapons, strings, etc.
 
@@ -81,7 +81,7 @@ Note: You only need the cache for things asking for a client-server connection. 
 
 #### XAsset redirects
 
-Simply change the name of an asset at runtime, it allows to use another asset by replacing the asked name. ([here the list of the pools](https://github.com/Dylbin/t8-atian-menu/blob/master/docs/notes/xassetpools.csv))
+Simply change the name of an asset at runtime, it allows to use another asset by replacing the asked name. ([here the list of the pools](https://github.com/ate47/t8-atian-menu/blob/master/docs/notes/bgcache.csv))
 
 Using the `redirect` field in the metadata config.
 
