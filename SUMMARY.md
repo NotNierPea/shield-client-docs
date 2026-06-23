@@ -35,3 +35,4 @@
 * [Getting Started With Modding](modding/getting-started-with-modding/README.md)
   * [Extra Modding Notes](modding/getting-started-with-modding/extra-modding-notes.md)
   * [Lua](modding/getting-started-with-modding/lua.md)
+  * [Custom Camos](modding/getting-started-with-modding/custom-camos.md)
