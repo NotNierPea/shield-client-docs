@@ -106,3 +106,7 @@ If the camo does not appear in the dumped folder, it means the game already load
 7. Drag the `pngs` folder onto `camo-build-dds.bat`.
 8. Copy the generated `.dds` files into your mod's `images` folder.
 9. Restart the game for the camo changes to be applied.
+
+## Edit the Camo Config
+
+Editing camo config is not supported yet.
