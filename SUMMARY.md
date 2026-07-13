@@ -32,7 +32,7 @@
 
 * [How To Install Mods](modding/how-to-install-mods.md)
 * [Getting Started with Modding](modding/getting-started-with-modding.md)
-* [Scripts](modding/getting-started-with-modding-1.md)
+* [Scripts](modding/scripts.md)
 * [Lua](modding/lua.md)
 * [Extra Modding Notes](modding/extra-modding-notes.md)
 * [Custom Camos](modding/custom-camos.md)
