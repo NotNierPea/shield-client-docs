@@ -182,7 +182,7 @@ ShieldGetKey(int key) -> bool
 
 #### <sub>Hashes functions</sub>
 
-<sub>Some ways to deal with hashes</sub>
+Some ways to deal with hashes
 
 Functions:
 
@@ -193,7 +193,7 @@ ShieldRegisterHash(int type, string... values)
 
 #### <sub>Dvars functions</sub>
 
-<sub>Register custom dvars into the in-game console</sub>
+Register custom dvars into the in-game console
 
 Functions:
 
@@ -203,24 +203,24 @@ ShieldRegisterDVarName(string name, string description = "")
 
 #### <sub>Custom HUD functions</sub>
 
-<sub>Register Custom Shield Elements and displaying them using GSC/CSC</sub>
+Register Custom Shield Elements and displaying them using GSC/CSC
 
 Functions:
 
 ```
 ShieldRegisterHudElem(id, text = "", color = 0xFFFFFFFF, x = 0, y = 0, anchor_x = 0, anchor_y = 0, align_x = 0, align_y = 0, scale = 1.0)
-ShieldRemoveHudElem(id)
 ShieldHudElemSetText(id, text)
 ShieldHudElemSetX(id, x)
 ShieldHudElemSetY(id, y)
 ShieldHudElemSetColor(id, color_vec) |  ShieldHudElemSetColor(id, color_rgba) |  ShieldHudElemSetColor(id, r, g, b)
 ShieldHudElemSetScale(id, scale)
+ShieldRemoveHudElem(id)
 ShieldClearHudElems()
 ```
 
 #### <sub>Log function</sub>
 
-<sub>Log into the console or project-bo4.log</sub>
+Log into the console or project-bo4.log
 
 Functions:
 
