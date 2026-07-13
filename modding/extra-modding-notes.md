@@ -4,6 +4,31 @@ description: Extra mod notes.
 
 # Extra Modding Notes
 
+## Commands
+
+`reload_mods` for the console to reload at runtime the mods, it only works if the user is in the UI level to avoid reloading scripts in game.
+
+### String tables
+
+The game is using "compiled" csv files, these files have the cell values compiled instead of storing the string values. For example with [zm\_mansion\_weapons.csv](https://github.com/ate47/bo4-source/blob/main/gamedata/weapons/zm/zm_mansion_weapons.csv), the table to tell the weapon loaded by a map, the weapon names are hashes.
+
+To create custom table, I've made a code to load the CSV with the first line used to tell the type of the columns. These types are:
+
+* string
+* int
+* hash
+* float
+* undefined (gsc)
+
+For example with all the available types:
+
+```
+string,int,hash,bool,float,undefined
+aaa,123,ar_accurate_t8,true,6.7,
+bbb,456,hash_123456789,false,13.823,
+ccc,789,ar_accurate_t8,true,12.6,
+```
+
 ### BGCache
 
 To sync the GSC and the LUA scripts, `eventstring` is used, they need to be cached on both side by the host and the clients. To allow that, a `cache` section in the metadata.json to register elements inside the cache.

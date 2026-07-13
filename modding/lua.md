@@ -55,6 +55,8 @@ x64:4a3eb94d551ddf71 (Frontend)
 x64:46f417a74d9ab424 (Zombies)
 x64:7f750379a77f3190 (Warzone)
 x64:4fb12287640e989a (Multiplayer/Warzone)
+
+... more can be found in a lua dump (require hook points)
 ```
 
 ***
@@ -62,7 +64,3 @@ x64:4fb12287640e989a (Multiplayer/Warzone)
 ## To Compile Lua
 
 using [ate's-hksc](https://github.com/ate47/hksc/tree/test_t8). the lua in BO4 is adding a new custom datatype `xhash` compared to bo3. you can also use [atian-cod-tools](https://github.com/ate47/atian-cod-tools) to compile too.
-
-***
-
-###
