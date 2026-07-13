@@ -125,11 +125,13 @@ Using the `redirect` field in the metadata config.
 
 ***
 
-#### GSC/CSC ShieldToJson/ShieldFromJson functions
+#### More GSC/CSC Functions
+
+#### <sub>ShieldToJson/ShieldFromJson functions</sub>
 
 This allow for things to be saved from game using GSC/CSC.
 
-Functions :
+Functions:
 
 ```
 // save object into a json file, if object is undefined, the file is deleted
@@ -151,6 +153,80 @@ Small Note :
 If used in `csc` > Saved to client folder
 
 if used in `gsc` > Saved to server folder
+
+#### <sub>Dev Render functions</sub>
+
+This allow for things to be rendered from game using GSC/CSC (Line + Text).
+
+Functions:
+
+```
+Shield3DDrawText(string text, vector origin OR entity, float scale = 1.0f, vector color = white, alpha = 1.0f)
+Shield3DRemoveText(string text)
+Shield3DClearTexts()
+
+Shield3DDrawLine(string name, vector origin, float scale = 1.0f, vector color = white, alpha = 1.0f)
+Shield3DRemoveLine(string name)
+Shield3DClearLines()
+```
+
+#### <sub>Hotkey functions</sub>
+
+This will return a bool depending on if the host is pressing the key id.
+
+Functions:
+
+```
+ShieldGetKey(int key) -> bool
+```
+
+#### <sub>Hashes functions</sub>
+
+<sub>Some ways to deal with hashes</sub>
+
+Functions:
+
+```
+ShieldHashLookup(hash hash) -> string
+ShieldRegisterHash(int type, string... values)
+```
+
+#### <sub>Dvars functions</sub>
+
+<sub>Register custom dvars into the in-game console</sub>
+
+Functions:
+
+```
+ShieldRegisterDVarName(string name, string description = "")
+```
+
+#### <sub>Custom HUD functions</sub>
+
+<sub>Register Custom Shield Elements and displaying them using GSC/CSC</sub>
+
+Functions:
+
+```
+ShieldRegisterHudElem(id, text = "", color = 0xFFFFFFFF, x = 0, y = 0, anchor_x = 0, anchor_y = 0, align_x = 0, align_y = 0, scale = 1.0)
+ShieldRemoveHudElem(id)
+ShieldHudElemSetText(id, text)
+ShieldHudElemSetX(id, x)
+ShieldHudElemSetY(id, y)
+ShieldHudElemSetColor(id, color_vec) |  ShieldHudElemSetColor(id, color_rgba) |  ShieldHudElemSetColor(id, r, g, b)
+ShieldHudElemSetScale(id, scale)
+ShieldClearHudElems()
+```
+
+#### <sub>Log function</sub>
+
+<sub>Log into the console or project-bo4.log</sub>
+
+Functions:
+
+```
+ShieldLog(message)
+```
 
 ***
 
@@ -186,11 +262,13 @@ But a mod can register custom files in the metadata using
 
 ***
 
-#### LUA Reading and Writing JSON
+#### LUA Custom Functions
+
+#### <sub>Reading and Writing JSON:</sub>
 
 This allow for things to be saved from game using LUA with Dvars (Engine Execute Command).
 
-Functions :
+Functions:
 
 ```
 -- reads and return to specified dvar (Arg in () are optional, use section = "" for no section)
