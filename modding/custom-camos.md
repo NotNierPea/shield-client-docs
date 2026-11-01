@@ -4,6 +4,15 @@ description: Custom camos instructions (replacing images, custom config)
 
 # Custom Camos
 
+**There are two ways to do camos (replacing them OR making new ones with config being supported)**\
+**Making new ones (With zone fast files):** [**https://github.com/NotNierPea/shield-support-mod**](https://github.com/NotNierPea/shield-support-mod) **(no guide yet but has an example on how to make a new camo for all modes)**
+
+
+
+
+
+**The other way (Replacing Camos):**
+
 ## Tools Required
 
 Download [CamoTools](https://github.com/NotNierPea/shield-client-docs/releases/download/release/CamoTools.zip).

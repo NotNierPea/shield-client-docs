@@ -22,12 +22,6 @@ Can be found [here.](https://github.com/NotNierPea/shield-launcher)
 
 ***
 
-## Demonware Server Emulator
-
-Download the new one [here](https://github.com/NotNierPea/shield-client-docs/releases/download/release/DWServer-New.zip) .
-
-***
-
 ## Discord Server
 
 Discord invite link [here.](https://discord.gg/AXECAzJJGU)
